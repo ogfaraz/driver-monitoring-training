@@ -1,0 +1,4 @@
+last_modified=2026-05-04 11:26:36
+file_count=8
+staged_files=weights/last.pt, weights/best.pt, plots/results.csv, plots/results.png, plots/confusion_matrix.png, plots/confusion_matrix_normalized.png, plots/labels.jpg, args.yaml
+run_dir=/kaggle/working/runs/detect/driver_monitoring_master/dual_t4_v2_stable_production
